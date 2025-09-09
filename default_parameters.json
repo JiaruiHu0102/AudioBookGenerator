@@ -1,0 +1,18 @@
+{
+  "text_split_method": "cut1",
+  "fragment_interval": 0.15,
+  "speed_factor": 1.0,
+  "temperature": 0.8,
+  "top_k": 15,
+  "top_p": 1.0,
+  "repetition_penalty": 1.35,
+  "ref_language": "all_zh",
+  "text_lang": "all_zh",
+  "text_language": "all_zh",
+  "batch_size": 1,
+  "parallel_infer": true,
+  "split_bucket": false,
+  "sample_steps": 16,
+  "if_sr": true,
+  "aux_ref_enabled": false
+}
