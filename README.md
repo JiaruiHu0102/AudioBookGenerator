@@ -130,7 +130,17 @@ AudioBookGenerator-v4 提供三种启动模式:
 
 ## 📁 项目结构 | Project Structure
 
-AudioBookGenerator-v4/ ├── main.py # 主启动脚本 | Main launch script ├── gpt_sovits.py # GPT-SoVITS v4 适配器 | GPT-SoVITS v4 adapter ├── ui_main.py # 主界面 | Main GUI ├── preset_manager.py # 预设管理器 | Preset manager ├── text_processor.py # 文本处理器 | Text processor ├── requirements.txt # Python依赖 | Python dependencies ├── requirements_ui.txt # UI依赖 | UI dependencies ├── presets/ # 预设文件 | Preset files ├── Working/ # 工作目录（处理结果和中间文件） | Working directory └── output_audio/ # 最终输出音频 | Output audio
+AudioBookGenerator-v4/
+├── main.py                 # 主启动脚本 | Main launch script
+├── gpt_sovits.py          # GPT-SoVITS v4 适配器 | GPT-SoVITS v4 adapter
+├── ui_main.py             # 主界面 | Main GUI
+├── preset_manager.py      # 预设管理器 | Preset manager
+├── text_processor.py      # 文本处理器 | Text processor
+├── requirements.txt       # Python依赖 | Python dependencies
+├── requirements_ui.txt    # UI依赖 | UI dependencies
+├── presets/              # 预设文件 | Preset files
+├── Working/              # 工作目录（处理结果和中间文件） | Working directory
+└── output_audio/         # 最终输出音频 | Output audio
 
 -----
 
