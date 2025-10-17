@@ -175,8 +175,9 @@ AudioBookGenerator-v4 uses a preset system to manage different voice roles:
       - Upload a reference audio file.
       - Enter the text content of the reference audio.
       - Configure language and emotion parameters.
+      - 具体模型请前往https://www.modelscope.cn/models/aihobbyist/GPT-SoVITS_Model_Collection/files自行下载
 
-2.  **管理预设 | Manage Presets**
+3.  **管理预设 | Manage Presets**
 
       - Select, edit, or delete presets from the preset list.
       - Presets are automatically saved to the `presets/` directory.
