@@ -167,4 +167,4 @@ AudioBookGenerator-v4/
 
 * **📧 Email:** jiaruihu2001@gmail.com
 * **💻 B站:** Jaceow
-* **📕 小红书:** JadeH
+* **📕 小红书:** 854086990
