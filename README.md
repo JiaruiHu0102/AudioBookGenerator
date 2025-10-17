@@ -339,6 +339,7 @@ This project is licensed under the MIT License. For more details, see the [LICEN
   - [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - Core TTS technology
   - [PyQt6](https://www.riverbankcomputing.com/software/pyqt/) - GUI framework
   - [BigVGAN](https://github.com/NVIDIA/BigVGAN) - Vocoder technology
+  - B站白菜工厂1145号员工训练的大量模型以及收集的参考音频，感谢！
 
 -----
 
